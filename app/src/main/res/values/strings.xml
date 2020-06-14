@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Listview_music</string>
+
+    <string-array name="music_name">
+
+        <item>enemy</item>
+        <item>kiss_somebody</item>
+        <item>rare</item>
+        <item>soy_yo_2020</item>
+        <item>start_again</item>
+        <item>undergo</item>
+
+    </string-array>
+
+
+
+
+</resources>
